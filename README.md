@@ -1,7 +1,8 @@
 ## Table of Contents
+- [First Steps](#first-steps)
 
 ## First Steps
-- [Adress Registration Form](http://www.lse.ac.uk/intranet/students/ISIS/pdf/Tier-4-PDF/Registration-Proforma---August-2013-(v-3).pdf)
+- [Address Registration Form](http://www.lse.ac.uk/intranet/students/ISIS/pdf/Tier-4-PDF/Registration-Proforma---August-2013-(v-3).pdf)
 - [Companies Made Simple](https://www.companiesmadesimple.com/) - Register Your Company
 - [Applying National Insurance](https://www.gov.uk/apply-national-insurance-number)
 - [Public Liability Insurance](http://www.simplybusiness.co.uk/insurance/public-liability/)
@@ -32,11 +33,15 @@
 - [Search Companies](https://beta.companieshouse.gov.uk/)
 - [Turkish blog](http://macrop-changinglife.blogspot.co.uk/)
 - [Cost of Living in London](http://www.numbeo.com/cost-of-living/city_result.jsp?country=United+Kingdom&city=London)
+- [What's for Brunch](http://assets.londonist.com/uploads/2016/03/brunchfin3.jpg)
 
 ## Useful Links for Your Company
 - [Allowable business expenses](http://www.inniaccounts.co.uk/guide/typical-business-expenses/#Mobile)
 - [What business expenses can I claim?](https://www.youtube.com/watch?v=OrvYNX-7dGc)
-- [What are dividents?](http://www.itcontracting.com/limited-company-dividends/)
+- [Limited company expenses](http://www.companybug.com/what-expenses-can-you-claim-via-your-limited-company/)
+- [What are dividends?](http://www.itcontracting.com/limited-company-dividends/)
+- [Can I reclaim pre-company formation expenses?](http://www.companybug.com/can-i-reclaim-pre-company-formation-expenses/)
+- [Guide to medical and health-related expenses](http://www.companybug.com/guide-to-medical-and-health-related-expenses/)
 - [Tax calculator](http://www.employedandselfemployed.co.uk/limited-company-tax-calculator)
 - [Accounting videos](https://www.youtube.com/user/CrunchAccounting/videos)
 
@@ -82,10 +87,13 @@
 - [Vodafone](http://www.vodafone.co.uk/)
 - [O2](http://www.o2.co.uk/)
 - [EE](http://ee.co.uk/)
+- [Compare Mobile Networks](http://mobilenetworkcomparison.org.uk/compare/)
 - [Compare Deals from Operators](https://www.uswitch.com/mobiles/networks/)
 
-## Find a Gym
+## Health & Fitness
+- [GP Locator](http://www.nhs.uk/Service-Search/GP/LocationSearch/4)
 - [Pay as u GYM](http://www.payasugym.com/)
+- [My Protein](https://www.myprotein.com/)
 
 ## Visa Advisors
 - [Immigration Connection](http://ankaraukvisa.co.uk/)

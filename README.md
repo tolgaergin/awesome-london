@@ -46,6 +46,7 @@
 - [QuickBooks](https://www.quickbooks.co.uk/accounting-software/)
 - [Sayar & co (Turkish)](http://www.sayar.london/)
 - [Cushion App](http://cushionapp.com/)
+- [toolkitlabs-invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) - Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-london-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ## General Useful Links
 - [Register Oyster](https://oyster.tfl.gov.uk/oyster/link/0004.do)

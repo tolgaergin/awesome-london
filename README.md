@@ -104,6 +104,7 @@
 - [WeWork](https://www.wework.com/)
 - [Regus](http://www.regus.co.uk/)
 - [The Collective](https://www.thecollective.co.uk/)
+- [CoworkingView](https://coworkingview.com/en/coworking/london) - Compare coworking desks and private offices across London operators, with the prices each operator publishes
 - [London Presence](https://www.londonpresence.com/)
 - [Registered Address](https://www.registeredaddress.co.uk)
 

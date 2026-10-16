@@ -74,6 +74,7 @@
 - [Tax calculator](http://www.employedandselfemployed.co.uk/limited-company-tax-calculator)
 - [Corporation Tax Rates](https://www.gov.uk/government/publications/rates-and-allowances-corporation-tax/rates-and-allowances-corporation-tax)
 - [Foreign Currency Tax](https://www.gov.uk/guidance/foreign-currency-transactions-vat-and-tour-operators)
+- [Sole trader vs limited company calculator](https://theaitill.com/tools/free/sole-trader-vs-limited-company-calculator)
 
 ## Recruiters
 - [Top 10 tricks used by recruitment agencies](http://www.contractoruk.com/agencies/recruitment_agency_tricks.html)
